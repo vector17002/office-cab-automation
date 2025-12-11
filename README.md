@@ -157,4 +157,4 @@ Create automation:
 
 ⸻
 
-Shortcut Link: https://www.icloud.com/shortcuts/88564510c2ee4a989cf8a80ccbdc965c
+Shortcut Link: https://www.icloud.com/shortcuts/b1429121bc014e728149762061a45094
