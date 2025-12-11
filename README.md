@@ -162,17 +162,4 @@ Create automation:
 
 ⸻
 
-📘 Future Enhancements
-	•	Advanced NLP for more flexible alarm sentences
-	•	Configurable user profiles in backend
-	•	Multi-alarm creation from a single message
-	•	Offline parsing option (on-device only)
-
-⸻
-
-If you’d like, I can also generate:
-	•	A full “Usage GIF”
-	•	A clean badge header (build, version, license)
-	•	Optional documentation for the backend API
-
-Just tell me!
+Shortcut Link: https://www.icloud.com/shortcuts/88564510c2ee4a989cf8a80ccbdc965c
