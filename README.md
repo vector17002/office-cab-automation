@@ -1,8 +1,3 @@
-Here’s an updated, polished README that explains your iOS automation, Shortcut, and how users must edit the Shortcut to define their custom alarm logic.
-This version is clean, beginner-friendly, and GitHub-ready.
-
-⸻
-
 ⏰ SMS → Alarm Automation (iOS Automation + Shortcuts + Backend)
 
 This project allows users to automatically create alarms on iOS based on incoming SMS messages.
